@@ -26,4 +26,8 @@ Some of the features that these editors have will make your coding more enjoyabl
 
 So as you can see, these features are just a few of the things that will help you write code more efficiently and while making it more enjoyable as well. This is important because we as humans tend to get more things done when we enjoy it.
 
+## The Command Line
+
+The command line is a text based version of the file explorer GUI(Graphical User Interface) that everyone who's used a computer has used. The difference is that the command line or terminal uses text commands to do the things you would normally do. It's a more succinct way of telling the computer exactly what you want it to do. Because of how succinct it is, there are many more things you can do in a command line that would take much longer in the GUI.
+
 [back to README](https://stubtail42.github.io/reading-notes/)
