@@ -54,35 +54,35 @@ The creators of Linux used to use a different DVCS but weren't happy with it. Li
 
 ## Terminal Commands for git help
 
-- git config --list
+ - `git config --list`
 
-- git help command
+ - `git help command`
 
-- git command --help
+ - `git command --help`
 
-- man git-command
+ - `man git-command`
 
 ### Importing
 
 - cd to target project's directory
 
-- git init command (creates a new subdirectory named .git)
+- `git init command` (creates a new subdirectory named .git)
 
-- git add *.c (to start tracking these files)
+- `git add *.c` (to start tracking these files)
 
-- git add LICENSE
+- `git add LICENSE`
 
-- git add commit -m "any message here"
+- `git add commit -m "any message here"`
 
 ### Cloning
 
 You can also create a copy of an existing Git repo by using the clone command with repo's URL.
 
-- git clone "https://github.com/test"
+- `git clone "https://github.com/test"`
 
 To clone a directory into a directory with another name use the following
 
-- git clone "https://github.com/test" mydirectory
+- `git clone "https://github.com/test" mydirectory`
 
 ## Local Repo Structure
 
@@ -110,7 +110,7 @@ Untracked files were not in the last snapshot and are not in the staging area. *
 
 to determine the state of files, use git status command
 
-- git status
+- `git status`
 
 On branch master
 
@@ -120,25 +120,25 @@ nothing to commit, working directory clean *This info indicates which branch you
 
 #### Single File
 
-- git add filename
+- `git add filename`
 
 #### All Files
 
-- git add *
+- `git add *`
 
 ### Commiting a File
 
 After staging one or multiple files, you commit the changes and document what was done in the message
 
-- git commit -m "made change x, y, z"
+- `git commit -m "made change x, y, z"`
 
 ### Commiting All Changes
 
-- git commit -a
+- `git commit -a`
 
 ### Pushing Changes
 
-- git push origin master
+- `git push origin master`
 
 *This will push changes from the local master branch to the origin repo*
 
@@ -146,11 +146,11 @@ After staging one or multiple files, you commit the changes and document what wa
 
 When you are not ready to commit changes but do not want to lose them either, the following command temporarily removes changes and hides them. This gives you a clean working directory.
 
-- git stash
+- `git stash`
 
 When you want to continue working on the changes use the following
 
-- git stash apply
+- `git stash apply`
 
 
 
