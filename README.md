@@ -11,9 +11,10 @@ The growth mindset to me is present in every day life. Instead of saying "I can'
 - failure is necessary
 - ~~I can't~~ **I don't know how yet**
 - parallel parking
+- someone out there has done it with less
 
 ### Table of Contents
 
-[Markdown](markdown.md)
-[The Coders Computer](coders-computer.md)
+[Markdown](markdown.md)\
+[The Coders Computer](coders-computer.md)\
 [Terminal Cheat Sheet](terminal-cheat-sheet.md)
