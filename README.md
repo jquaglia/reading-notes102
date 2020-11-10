@@ -8,6 +8,7 @@ I'm a 26 year old student at CodeFellows. I live in downtown Seattle with my gir
 
 ## Table of Contents
 
+[The Growth Mindset](growthmind.md)\
 [Markdown](markdown.md)\
 [The Coders Computer](coders-computer.md)\
 [Terminal Cheat Sheet](terminal-cheat-sheet.md)\
