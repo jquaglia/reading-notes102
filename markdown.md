@@ -17,7 +17,7 @@ Ordered lists are also possible
 1. Item 2
 1. Item 3
 
-
+~~You can also strikethrough text~~
 
 
 [back to READ ME](https://stubtail42.github.io/reading-notes/)
