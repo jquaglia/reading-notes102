@@ -12,6 +12,8 @@ The growth mindset to me is present in every day life. Instead of saying "I can'
 - ~~I can't~~ **I don't know how yet**
 - parallel parking
 
-
+### Table of Contents
 
 [Markdown](markdown.md)
+
+[Terminal Cheat Sheet](terminal-cheat-sheet.md)
