@@ -15,5 +15,5 @@ The growth mindset to me is present in every day life. Instead of saying "I can'
 ### Table of Contents
 
 [Markdown](markdown.md)
-
+[The Coders Computer](coders-computer.md)
 [Terminal Cheat Sheet](terminal-cheat-sheet.md)
