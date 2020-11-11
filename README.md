@@ -10,4 +10,5 @@ I'm a 26 year old student at CodeFellows. I live in downtown Seattle with my gir
 [Markdown](markdown.md)\
 [The Coders Computer](coders-computer.md)\
 [Terminal Cheat Sheet](terminal-cheat-sheet.md)\
-[In The Cloud](revisions.md)
+[In The Cloud](revisions.md)\
+[HTML Reading](reading4.md)

@@ -52,3 +52,4 @@ Inline elements always appear to continue on the same line as the neighboring el
 
 `<span>` is used as an inline `<div>` tag
 
+[back to README](README.md)
