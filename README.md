@@ -14,4 +14,5 @@ I'm a 26 year old student at CodeFellows. I live in downtown Seattle with my gir
 [HTML Reading](reading4.md)\
 [CSS](css.md)\
 [Javascript](javascript.md)\
-[Sources](sources.md)
+[Sources](sources.md)\
+[How Computers Work](howcompswork.md)
