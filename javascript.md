@@ -8,6 +8,24 @@
 
 ## Basic JS Instructions
 
-A script is a series of instructions that a computer can follow one by one. Each individual sinstruction is known as a statement. Statements end with a semicolon.
+A script is a series of instructions that a computer can follow one by one. Each individual instruction is known as a statement. Statements end with a semicolon.
+
+## Variables
+
+`var quantity;` The var is the variable keyword (use `let` more now) and the quantity is the variable name. `quantity = 3;`  "`=`" is the assignment operator, 3 is the variable value. It is possible to use a variable to store a number or string for later use.
+
+### Rules for naming a Variable
+
+1. the name must begin with a letter, dollar sign, or an underscore. It must not start with a number
+
+1. the name can contain letters, numbers, dollar sign or an underscore. do not use a . or a -
+
+1. you cannot use keywords or reserved words
+
+1. all variables are case sensitive so _score_ and _Score_ would be different variables.
+
+1. Use a name that describes what info the variable stores
+
+1. if your variable name is made up of more than 1 word, use a capital letter for the first letter of every word after the first word ie `lastName`
 
 [back to README.md](README.md)
