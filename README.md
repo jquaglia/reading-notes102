@@ -16,4 +16,5 @@ I'm a 26 year old student at CodeFellows. I live in downtown Seattle with my gir
 [Javascript](javascript.md)\
 [Sources](sources.md)\
 [How Computers Work](howcompswork.md)\
-[JS and JQuery](jsjquery.md)
+[JS and JQuery](jsjquery.md)\
+[Loops](loops.md)
