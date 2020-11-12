@@ -28,4 +28,4 @@ A script is a series of instructions that a computer can follow one by one. Each
 
 1. if your variable name is made up of more than 1 word, use a capital letter for the first letter of every word after the first word ie `lastName`
 
-[back to README.md](README.md)
+[back to README](README.md)
